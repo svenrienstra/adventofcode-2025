@@ -16,7 +16,7 @@ public class Day4 {
 //        System.out.println("+++++++++++++++++++++++++++++++");
 //        System.out.println("");
 //        paperGrid.printReachableRolls();
-//        System.out.println(paperGrid.coundReachableRolls());
+//        System.out.println(paperGrid.countReachableRolls());
 
 
         PaperGrid paperGrid = new PaperGrid(List.of(input.split("\\n")));

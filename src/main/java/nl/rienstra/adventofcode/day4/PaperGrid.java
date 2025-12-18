@@ -86,7 +86,7 @@ public class PaperGrid {
         }
     }
 
-    int coundReachableRolls() {
+    int countReachableRolls() {
         int count = 0;
 
         for (int y = 0; y < grid.length; y++) {
